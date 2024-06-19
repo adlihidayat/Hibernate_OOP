@@ -12,7 +12,7 @@ Pada video ini, kami akan menjelaskan tentang Sistem Informasi Akademik sederhan
 
 Proyek UAS ini dapat diunduh menggunakan link berikut LINK_GITHUB 
 
-Proyek ini merupakan pengembangan dari atau merujuk kepada program yang dibangun oleh https://youtu.be/TdDLkv5OZfE?si=O4lBGSL34oZqhvsB
+<p>Proyek ini merupakan pengembangan dari atau merujuk kepada program yang dibangun oleh https://youtu.be/TdDLkv5OZfE?si=O4lBGSL34oZqhvsB</p>
  ==== 
 Fakultas Ilmu Komputer dan Teknologi Informasi
 fasilkom-ti.usu.ac.id/en 
