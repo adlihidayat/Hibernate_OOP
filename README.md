@@ -1,4 +1,5 @@
-#UniversitasSumateraUtara #Fasilkom-TI #OOP #Java 
+<h1  align="center">Hibernate OOP Project</h1>
+<p  align="center">#UniversitasSumateraUtara #Fasilkom-TI #OOP #Java</p>
 
 Video ini adalah proyek Ujian Akhir Semester dari kelompok KELOMPOK_FVNKY untuk mata kuliah Pemrograman Berorientasi Objek Semester Genap 2023/2024 pada program studi Ilmu Komputer, Fakultas Ilmu Komputer dan Teknologi Informasi, Universitas Sumatera Utara.
 Adapun anggota dari kelompok NAMA_KELOMPOK adalah:
@@ -12,8 +13,9 @@ Pada video ini, kami akan menjelaskan tentang Sistem Informasi Akademik sederhan
 
 Proyek UAS ini dapat diunduh menggunakan link berikut LINK_GITHUB 
 
-<p>Proyek ini merupakan pengembangan dari atau merujuk kepada program yang dibangun oleh https://youtu.be/TdDLkv5OZfE?si=O4lBGSL34oZqhvsB</p>
- ==== 
+<code>Proyek ini merupakan pengembangan dari atau merujuk kepada program yang dibangun oleh https://youtu.be/TdDLkv5OZfE?si=O4lBGSL34oZqhvsB</code>
+
+<div align="center">
 Fakultas Ilmu Komputer dan Teknologi Informasi
 fasilkom-ti.usu.ac.id/en 
 instagram.com/fasilkomti_usu 
@@ -25,3 +27,5 @@ Pengampu Mata Kuliah: Jos Timanta Tarigan
 Profil: s.id/27afj
 Publikasi: s.id/1ftSK
 Youtube: youtube.com/@jostimantatarigan7481
+</div>
+
