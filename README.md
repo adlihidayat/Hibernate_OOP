@@ -1,6 +1,6 @@
 <h1  align="center">Hibernate OOP Project</h1>
 <p  align="center">#UniversitasSumateraUtara #Fasilkom-TI #OOP #Java</p>
-
+</br>
 Video ini adalah proyek Ujian Akhir Semester dari kelompok KELOMPOK_FVNKY untuk mata kuliah Pemrograman Berorientasi Objek Semester Genap 2023/2024 pada program studi Ilmu Komputer, Fakultas Ilmu Komputer dan Teknologi Informasi, Universitas Sumatera Utara.
 Adapun anggota dari kelompok NAMA_KELOMPOK adalah:
 
@@ -17,7 +17,6 @@ Proyek ini merupakan pengembangan dari atau merujuk kepada program yang dibangun
 
 </br>
 </br>
----
 <div align="center">
 Fakultas Ilmu Komputer dan Teknologi Informasi
 fasilkom-ti.usu.ac.id/en 
