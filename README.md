@@ -13,9 +13,9 @@ Pada video ini, kami akan menjelaskan tentang Sistem Informasi Akademik sederhan
 
 Proyek UAS ini dapat diunduh menggunakan link berikut LINK_GITHUB 
 
-<code>Proyek ini merupakan pengembangan dari atau merujuk kepada program yang dibangun oleh https://youtu.be/TdDLkv5OZfE?si=O4lBGSL34oZqhvsB</code>
+Proyek ini merupakan pengembangan dari atau merujuk kepada program yang dibangun oleh https://youtu.be/TdDLkv5OZfE?si=O4lBGSL34oZqhvsB
 
-<div align="center">
+<code align="center">
 Fakultas Ilmu Komputer dan Teknologi Informasi
 fasilkom-ti.usu.ac.id/en 
 instagram.com/fasilkomti_usu 
@@ -27,5 +27,5 @@ Pengampu Mata Kuliah: Jos Timanta Tarigan
 Profil: s.id/27afj
 Publikasi: s.id/1ftSK
 Youtube: youtube.com/@jostimantatarigan7481
-</div>
+</code>
 
